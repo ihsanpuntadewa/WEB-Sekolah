@@ -74,7 +74,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
     <div class="thumbnail">
       <img src="images/FUTSALL.jpg" alt="Lomba Futsal" he>
       <div class="caption">
-       <h3>Lomba Futsal antar kelas</h3>
+       <h3>Lomba Futsal antar kota</h3>
 
       </div>
     </div>
@@ -91,7 +91,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
     <div class="thumbnail">
       <img src="images/tanaman.jpg" alt="Hari Pohon Sedunia">
       <div class="caption">
-            <h3>Memperingati Hari Pohon Sedunia</h3>
+            <h3>Memperingati Hari Pohon Seplanet</h3>
       </div>
     </div>
   </div>
@@ -99,7 +99,7 @@ function hideURLbar(){ window.scrollTo(0,1); } </script>
     <div class="thumbnail">
       <img src="images/voly.jpg" alt="Lomba voly">
       <div class="caption">
-        <h3>Lomba voly persahabatan</h3>
+        <h3>Lomba voly permusuhan</h3>
       </div>
     </div>
   </div>
